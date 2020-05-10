@@ -1,0 +1,25 @@
+{
+  "name": "article",
+  "version": "1.0.0",
+  "description": "GraphQL initiation",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^15.0.0",
+    "mongoose": "^5.9.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "scripts": {
+    "start": "nodemon app.js",
+  },
+  "keywords": [
+    "graphql",
+    "react",
+    "node"
+  ],
+  "author": "Prakash R",
+  "license": "ISC"
+}
